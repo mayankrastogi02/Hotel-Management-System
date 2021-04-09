@@ -1,7 +1,7 @@
-# Hotel-Management-System
+🏨 # Hotel-Management-System
 An inventory and processing system made simplified to manage Hotel Bookings and records.
 
-Features Included:
+🛌 Features Included:
 1. Making a reservstion
 2. Displaying available rooms
 3. Deleting all bookings of a particular room
