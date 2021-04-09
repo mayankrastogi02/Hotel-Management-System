@@ -3,10 +3,10 @@ An inventory and processing system made simplified to manage Hotel Bookings and 
 
 <h3>🛌 Features Included:</h3>
 <ol>
-<li>Making a reservstion
+<li>Making a reservation
 <li>Displaying available rooms
 <li>Deleting all bookings of a particular room
-<li>Searching the bookings by the name of guest
+<li>Searching the bookings by the name of the guest
 <li>Generating the guest's bill
 <li>Booking hotel facilties 
 </ol>
